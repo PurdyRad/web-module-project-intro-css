@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+/* font-family: 'Chelsea Market', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+/* font-family: 'Roboto Mono', monospace; */
+
+html{
+    font-size:62.5%;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+nav a{
+    display:inline-block;
+    margin:0 5% 0 7%;
+    border: #FF764E solid;
+    border-left:15%;
+    border-radius: 30%;
+    padding:5%;
+    text-align:center;
+
+}
